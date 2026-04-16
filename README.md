@@ -2,7 +2,7 @@
 
 
   💻Desenvolvedora beck-end em formação   
-  📚Estudando HTML, CSS, JAVASCRIPT e PHP  
+  📚Estudando HTML, CSS, JAVA e SQL  
   🆙Em busca da primeira oportunidade na área  
 
   ### 🌐 Tecnologias e Ferramentas
