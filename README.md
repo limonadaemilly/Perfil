@@ -2,12 +2,12 @@
 
 
   💻Desenvolvedora beck-end em formação   
-  📚Estudando HTML, CSS, JAVA e SQL  
+  📚Práticas em  HTML, CSS, JAVA, PHP e SQL  
   🆙Em busca da primeira oportunidade na área  
 
   ### 🌐 Tecnologias e Ferramentas
   - HTML | CSS | JAVASCRIPT
-  - PHP  | MySQL
+  - PHP  | MySQL | JAVA
   - Git  | GITHUB | `VS CODE`
 
 - ### I'm from Brazil!
